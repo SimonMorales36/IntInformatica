@@ -1,1 +1,1 @@
-# IntInformatica
+# Informatica
